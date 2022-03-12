@@ -1,1 +1,1 @@
-# coffee-store-vanillaJS
+# [SPA] ☕️ coffee-store-vanillaJS
